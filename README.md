@@ -1,6 +1,8 @@
+![image](https://github.com/juanmamaffei/juanmamaffei/blob/f66104aa01217fa6bff4af365fc766ab7756d27d/Header%20Github.png)
+<!--
 ### Hi there 👋
 
-<!--
+
 **juanmamaffei/juanmamaffei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.linkedin.com/in/juanmamaffei/
+
+https://jmmaffei.com
+
+https://www.youtube.com/c/juanmamaffei
+
+
 -->
