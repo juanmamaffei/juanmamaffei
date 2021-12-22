@@ -1,4 +1,4 @@
-![image](https://github.com/juanmamaffei/juanmamaffei/blob/f66104aa01217fa6bff4af365fc766ab7756d27d/Header%20Github.png)
+![image](./ghbanner.png)
 <!--
 ### Hi there 👋
 
