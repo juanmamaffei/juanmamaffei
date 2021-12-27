@@ -18,21 +18,7 @@ Clic [here](https://portfolio-37vngl7yc-juanmamaffei.vercel.app/) for see my [po
 
 ## Technologies
 
-<img src="./images/css.png" height="30px" />
-<img src="./images/html.png" height="30px" />
-<img src="./images/js.png" height="30px" />
-<img src="./images/next.png" height="30px" />
-<img src="./images/rails.jpeg" height="30px" />
-<img src="./images/react.png" height="30px" />
-<img src="./images/ruby.png" height="30px" />
-<img src="./images/typescript.png" height="30px" />
-<img src="./images/latex.png" height="30px" />
-<img src="./images/nginx.jpg" height="30px" />
-<img src="./images/debian.png" height="30px" />
-<img src="./images/wordpress.png" height="30px" />
-<img src="./images/permiere.svg" height="30px" />
-<img src="./images/animate.png" height="30px" />
-<img src="./images/aftereffects.png" height="30px" />
+<img src="./images/css.png" height="30px" /> <img src="./images/html.png" height="30px" /> <img src="./images/js.png" height="30px" /> <img src="./images/next.png" height="30px" /> <img src="./images/rails.jpeg" height="30px" /> <img src="./images/react.png" height="30px" /> <img src="./images/ruby.png" height="30px" /> <img src="./images/typescript.png" height="30px" /> <img src="./images/latex.png" height="30px" /> <img src="./images/nginx.jpg" height="30px" /> <img src="./images/debian.png" height="30px" /> <img src="./images/wordpress.png" height="30px" /> <img src="./images/permiere.svg" height="30px" /> <img src="./images/animate.png" height="30px" /> <img src="./images/aftereffects.png" height="30px" />
 
 
 <!--
