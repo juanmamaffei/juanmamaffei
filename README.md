@@ -12,7 +12,7 @@ Also, I'm preparing a Ruby Course... you can see [previews here](https://www.you
 
 ## Portfolio
 
-- Clic [here](https://portfolio-37vngl7yc-juanmamaffei.vercel.app/) for see my [portfolio](https://portfolio-37vngl7yc-juanmamaffei.vercel.app/)!
+- Clic [here](https://portfolio-juanmamaffei.vercel.app/) for see my [portfolio](https://portfolio-juanmamaffei.vercel.app/)!
 
 - Clic [here](./pdf/resume.pdf) for see my [resume](./pdf/resume.pdf).
 
